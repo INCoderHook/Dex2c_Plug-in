@@ -1,10 +1,10 @@
 # Dec2c-Plug-in
 
-Very simple tool to use
+Very simple tool to use.
 
 ## How To Use
 
-### Termux PKG Required
+### Termux Packages Required
 
 ```bash
 pkg update && pkg upgrade -y && pkg install -y python python-pip git wget curl termux-api && pip install colorama pyperclip pycryptodome && termux-setup-storage
