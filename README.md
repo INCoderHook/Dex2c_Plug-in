@@ -1,5 +1,9 @@
-# Dec2c-Plug-in  
+# Dex2c-Plug-in  
 A simple to use Dex2c-Plug-in tool
+
+## Screenshot
+
+![Dex2c Plugin Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA57VOY-wGhLYEuC6ZaryYd9g-mc5uU2Z4iXYh5svJIueY6e44z8Zwq5Rk83KWJljAlE42jt6KG-UMYOwtPGJqoXxvk1sNC337zxDa8LA17kDsigdhbhqu_moY15gnX52IzgvbKWgXC-uSHH2JcuobToNru3RKfR5qHVwqhXjwZpoVwH6E_Mol6lHI2heX/s1600/1000806468.jpg)
 
 ## Prerequisites  
 - Termux (Android) or Linux environment  
