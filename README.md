@@ -9,7 +9,7 @@
 ![Dex2c Plugin Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA57VOY-wGhLYEuC6ZaryYd9g-mc5uU2Z4iXYh5svJIueY6e44z8Zwq5Rk83KWJljAlE42jt6KG-UMYOwtPGJqoXxvk1sNC337zxDa8LA17kDsigdhbhqu_moY15gnX52IzgvbKWgXC-uSHH2JcuobToNru3RKfR5qHVwqhXjwZpoVwH6E_Mol6lHI2heX/s1600/1000806468.jpg)
 
 <p align="center"> 
-<a href="https://t.me/EpicModder"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=EpicModder" /></a>
+<a href="https://t.me/EpicModder"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=1294cc&center=true&vCenter=true&random=false&width=435&lines=EpicModder" /></a>
  </p>
 
 -------
